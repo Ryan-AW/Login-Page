@@ -1,5 +1,5 @@
 # Login & Registration Page
-A Basic Website Login Page that allows you to Login or Register an account interacting with an SQLITE3 Database for storing
+A Basic Website that allows you to Login or Register an account interacting with an SQLITE3 Database for storing credentials
 
 Use an application such as XAMPP to host the website on your local network for PHP to run.
 Linux is recommened in this case.
