@@ -10,7 +10,7 @@ Run the following commands in linux targeting the folder containing the website 
 
 [~] sudo chmod 777 [folder/Login-Data.db]
 
-This is to allow the SQLITE3 Database file to enable write-mode for registering.
+This is to allow the SQLITE3 Database file to enable write-mode for Logging In and Registering.
 
 ![](images/Login-Page.png)
 ![](images/Registration-Page.png)
