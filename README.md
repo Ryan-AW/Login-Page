@@ -6,7 +6,8 @@ Linux is recommened in this case.
 
 Run the following commands within the file containing the website code:
 
-[~] sudo chmod 777 [folder] 
+[~] sudo chmod 777 [folder]
+
 [~] sudo chmod 777 [folder/Login-Data.db]
 
 This is to allow the SQLITE3 Database file to enable write-mode for registering.
