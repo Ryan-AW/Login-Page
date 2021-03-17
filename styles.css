@@ -1,0 +1,48 @@
+/* ----- [ Login & Registration Page ] ----- ] */
+body {
+    background-color: #34495E;
+    zoom: 180%;
+}
+
+h1 { color: gold; }
+
+.container {
+    position: absolute;
+    text-align: center;
+
+    transform: translate(-50%, -50%);
+    top: 40%; left: 50%;
+}
+
+label {
+    display: block;
+    color: gold;
+}
+
+button {
+    margin-top: 2%;
+    font-size: 9px;
+}
+
+/* ----- [ Chat Page ] ----- */
+
+/* Guest Page Redirect */
+#login-error {
+    text-align: center;
+    color: red;
+}
+a { color: red; }
+a:hover { color: blue; }
+
+/* Main Page */
+h2 {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2px;
+    width: 172px;
+
+    border-style: dashed;
+    border-color: black;
+    font-weight: bold;
+    color: black;
+}
