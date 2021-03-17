@@ -4,7 +4,7 @@ A Basic Website Login Page that allows you to Login or Register an account commu
 Use an application such as XAMPP to host the website on your local network for PHP to run.
 Linux is recommened in this case.
 
-Run the following commands within the file containing the website code:
+Run the following commands in linux targeting the folder containing the website source files
 
 [~] sudo chmod 777 [folder]
 
