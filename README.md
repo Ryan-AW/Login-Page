@@ -12,4 +12,4 @@ Run the following commands within the file containing the website code:
 
 This is to allow the SQLITE3 Database file to enable write-mode for registering.
 
-![](images/login.png)![](images/register.png)
+![](images/Login-Page.png)![](images/Registration-Page.png)
